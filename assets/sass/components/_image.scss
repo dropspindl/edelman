@@ -17,6 +17,12 @@
 			border-radius: _size(border-radius);
 		}
 
+		#screenshot {
+			width: 100%;
+    height: auto;
+    max-width: 100%;
+		}
+
 		&.left,
 		&.right {
 			width: 40%;
